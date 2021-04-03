@@ -6,10 +6,6 @@ This folder contains the source code for the [Using State in Jetpack Compose cod
 In this codelab, you will explore patterns for working with state in a declarative world by building a Todo application. We'll see what unidirectional
 data flow is, and how to apply it in a Jetpack Compose application to build stateless and stateful composables.
 
-## Screenshots
-
-![Finished code](screenshots/state_movie.gif "After: Animation of fully completed project")
-
 ## License
 
 ```
